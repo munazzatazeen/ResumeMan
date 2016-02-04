@@ -11,9 +11,9 @@ headers:
     projects: Projects
 
 info:
-    name: Full Name
+    name: Munazza Tazeen
     # dob: 1980-01-01 # not mandatory
-    shortdesc: Job Title
+    shortdesc: Designer at Zammu
     email: example@example.com
     phone: (313) - 867-5309 # not mandatory
     homepage: http://example.com/ # not mandatory
